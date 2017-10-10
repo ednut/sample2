@@ -110,7 +110,7 @@ ul{
 .bg-1{background:#174873;}
 .bg-2{background:#f5f4f4;}
 
-.ptb-20{padding:20px 0px;}
+.ptb-20{padding:10px 0px;}
 .ptb-120{padding:120px 0px;}
 .ptb-100{padding:100px 0px;}
 
@@ -244,7 +244,7 @@ a#scrollUp:hover{
  2.2.Header-bottom-area
  --------------------------*/
 .logo {
-	margin: 26px 0;
+	// margin: 26px 0;
 }
 .logo a{
 	color: #fff;
@@ -254,7 +254,7 @@ a#scrollUp:hover{
 .mainmenu ul li {
 	display: inline-block;
 	margin: 0 25px;
-	padding: 31px 0;
+	padding: 20px 0;
 	position: relative;
 }
 .mainmenu ul li:last-child{
