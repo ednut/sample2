@@ -1740,3 +1740,29 @@ a#scrollUp:hover{
 	color:#fff;
 	text-transform:uppercase;
 }
+
+.university-caption{
+	text-align: center;
+	padding: 50px 30px;
+}
+.university-caption .caption{
+	font-weight: 100;
+    font-size: 28px;
+}
+.university-caption .catch{
+	font-weight: 100;
+    font-size: 28px;
+    color: #C71610;
+}
+.university-caption .line.bottom{
+	border-top: 1px solid #ddd;
+    width: 60%;
+    margin: auto;
+    margin-top: 25px;
+}
+.university-caption .line.top{
+	border-top: 1px solid #ddd;
+    width: 60%;
+    margin: auto;
+    margin-bottom: 25px;
+}
